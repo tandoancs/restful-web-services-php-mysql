@@ -17,7 +17,7 @@ assets/
 ├────── login.css - css for login.php (login front-end) file in client folder
 ├────── style.css - css for index.php (signup front-end) file in root folder
 ├─── client/
-├────── login.php - front-end for login view
+├────── login.php - front-end for login view <br>
 index.php - front-end for signup view
 
 **2. Creating phptutorials database & users table**
